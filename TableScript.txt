@@ -1,0 +1,5 @@
+create table test_124
+(
+name varchar(1000)
+
+)
